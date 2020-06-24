@@ -1,4 +1,4 @@
-# SelfCoding Mode
+# Self Coding Mode
 PC나 스마트기기 연결 없이 알버트와 코딩 카드만으로 코딩이 가능합니다.
 
 
