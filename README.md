@@ -2,12 +2,13 @@
 PC나 스마트기기 연결 없이 알버트와 코딩 카드만으로 코딩이 가능합니다.
 
 
-![albert AI sefmode](./images/albert01.png)
-
 시작하기
 --
 
 - 알버트AI 전원을 켜서 부팅을 완료한 후 코딩 카드를 아래와 같이 넣으면 셀프 코딩 기능을 시작합니다.
+
+
+![albert AI sefmode](./images/albert01.png)
 
   - 카드를 노란 화살표 방향으로 밀어넣으면 입력
   - 실행 버튼을 누르면 실행(Start)
