@@ -1,6 +1,8 @@
 # Self Coding Mode
 PC나 스마트기기 연결 없이 알버트와 코딩 카드만으로 코딩이 가능합니다.
 
+[![selfcoding](http://img.youtube.com/vi/kio24x3vDNo/0.jpg)](https://youtu.be/kio24x3vDNo)
+
 
 시작하기
 --
